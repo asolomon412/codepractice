@@ -1,4 +1,4 @@
-package udemy;
+package com.gc;
 
 public class FizzBuzzExample {
 
